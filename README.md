@@ -1,8 +1,8 @@
 ---
-description: First page
+description: This is the first page.
 ---
 
-# Initial page
+# Page 1
 
-Thsis some stuff for my first page
+This some stuff for my first page.
 
